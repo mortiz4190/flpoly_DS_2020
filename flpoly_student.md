@@ -20,5 +20,5 @@ I am _passionate about_:
 Sports
 - Thing 2
 Cars
-- Thing 3 as shown in this website <https://www.nationalgeographic.com>
+- Thing 3
 Nature
