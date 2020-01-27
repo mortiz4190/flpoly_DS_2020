@@ -4,6 +4,10 @@
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
+| :Prefix: | :Number: | :Name:                         | :Credits: |
+| :COP:    | :2073:   | :_Intro to Data Science_:      | :3: |
+| :CNT:    | :3004:   | :_Intro to Computer Networks_: | :3: |
+
 - Course 1
 Intro to Data Science
 - Course 2
