@@ -8,6 +8,10 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 | :COP:    | :2073:   | :_Intro to Data Science_:      | :3: |
 | :CNT:    | :3004:   | :_Intro to Computer Networks_: | :3: |
 
+Table: COURSES
+
+[Link to repository](file:///C:/Users/Michael/Downloads/ds_using_markdown%20(1).html)
+
 - Course 1
 Intro to Data Science
 - Course 2
