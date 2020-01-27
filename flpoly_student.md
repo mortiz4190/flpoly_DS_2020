@@ -13,7 +13,7 @@ Table: Courses
 
 [Link to repository](https://github.com/mortiz4190/flpoly_DS_2020/blob/master/flpoly_student.md)
 
-![Screenshot of Markdown](https://onedrive.live.com/?cid=174BF9BE5A35D615&id=174BF9BE5A35D615%2119133&parId=174BF9BE5A35D615%21439&o=OneUp)
+![Screenshot of Markdown]("C:\Users\Michael\OneDrive\Documents\flpoly_students.png")
 
 - Course 1
 Intro to Data Science
