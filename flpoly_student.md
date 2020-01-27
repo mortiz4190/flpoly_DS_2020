@@ -4,13 +4,14 @@
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-| :Prefix: | :Number: | :Name:                         | :Credits: |
-| :COP:    | :2073:   | :_Intro to Data Science_:      | :3: |
-| :CNT:    | :3004:   | :_Intro to Computer Networks_: | :3: |
+| Prefix | Number | Name                         | Credits |
+|:------:|:------:|:----------------------------:|:-------:|
+| COP    | 2073   | _Intro to Data Science_      | 3       |
+| CNT    | 3004   | _Intro to Computer Networks_ | 3       |
 
 Table: COURSES
 
-[Link to repository](file:///C:/Users/Michael/Downloads/ds_using_markdown%20(1).html)
+[Link to repository](https://github.com/mortiz4190/flpoly_DS_2020/blob/master/flpoly_student.md)
 
 - Course 1
 Intro to Data Science
