@@ -13,7 +13,7 @@ Table: Courses
 
 [Link to repository](https://github.com/mortiz4190/flpoly_DS_2020/blob/master/flpoly_student.md)
 
-![Screenshot of Markdown]("C:\Users\Michael\OneDrive\Documents\flpoly_students.png")
+![Screenshot of Markdown](https://github.com/mortiz4190/IntroDS/issues/1#issue-555756951)
 
 - Course 1
 Intro to Data Science
