@@ -12,6 +12,8 @@ Data Science student at [Florida Polytechnic University](https://www.floridapoly
 Table: Courses
 
 [Link to repository](https://github.com/mortiz4190/flpoly_DS_2020/blob/master/flpoly_student.md)
+![Screenshot of Markdown](/c/Users/Michael/OneDrive/Pictures/Screenshots/flpoly_students.png)
+
 
 - Course 1
 Intro to Data Science
